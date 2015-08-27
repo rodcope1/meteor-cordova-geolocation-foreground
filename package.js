@@ -1,8 +1,8 @@
 Package.describe({
   summary: "Cordova enabled foreground geolocation, not when closed/suspended",
   version: "0.0.3",
-  name: "rodcope:cordova-geolocation-foreground",
-  git: "https://github.com/rodcope/meteor-cordova-geolocation-foreground"
+  name: "rodcope1:cordova-geolocation-foreground",
+  git: "https://github.com/rodcope1/meteor-cordova-geolocation-foreground"
 });
 
 Cordova.depends({
